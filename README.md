@@ -54,6 +54,8 @@ The Power BI dashboard presents sales KPIs, monthly sales trends, delivery perfo
 
 ![Olist Analytics Dashboard](dashboard/dashboard_screenshot.png)
 
+Note: The Power BI dashboard screenshot is included in this repository. The interactive .pbix file is available upon request.
+
 ## Project Structure
 
 ```text
